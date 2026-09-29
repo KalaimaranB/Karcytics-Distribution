@@ -1,0 +1,7 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Claude Code local settings (can contain machine-specific absolute paths)
+.claude/
+CLAUDE.md
