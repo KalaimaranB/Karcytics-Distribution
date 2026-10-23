@@ -1,8 +1,8 @@
 {
   "version": "2",
   "plugins": {
-    "western_blot": {
-      "repo_url": "https://github.com/KalaimaranB/BioPro-western-blot"
+    "gel_blot": {
+      "repo_url": "https://github.com/KalaimaranB/Karcytics-gel-blot"
     },
     "cytometrics": {
       "repo_url": "https://github.com/KalaimaranB/Karcytics-cytometrics"
